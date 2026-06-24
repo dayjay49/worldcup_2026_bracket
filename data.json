@@ -1,0 +1,700 @@
+{
+  "tournament": "FIFA World Cup 2026",
+  "savedAt": "2026-06-24T00:23:01.789Z",
+  "matches": [
+    {
+      "id": "A-0",
+      "group": "A",
+      "matchday": 1,
+      "match": "Mexico vs South Africa",
+      "score": "2-0"
+    },
+    {
+      "id": "A-1",
+      "group": "A",
+      "matchday": 1,
+      "match": "South Korea vs Czechia",
+      "score": "2-1"
+    },
+    {
+      "id": "A-2",
+      "group": "A",
+      "matchday": 2,
+      "match": "Mexico vs South Korea",
+      "score": "1-0"
+    },
+    {
+      "id": "A-3",
+      "group": "A",
+      "matchday": 2,
+      "match": "Czechia vs South Africa",
+      "score": "1-1"
+    },
+    {
+      "id": "A-4",
+      "group": "A",
+      "matchday": 3,
+      "match": "Czechia vs Mexico",
+      "score": null
+    },
+    {
+      "id": "A-5",
+      "group": "A",
+      "matchday": 3,
+      "match": "South Africa vs South Korea",
+      "score": null
+    },
+    {
+      "id": "B-0",
+      "group": "B",
+      "matchday": 1,
+      "match": "Canada vs Bosnia & Herzegovina",
+      "score": "1-1"
+    },
+    {
+      "id": "B-1",
+      "group": "B",
+      "matchday": 1,
+      "match": "Qatar vs Switzerland",
+      "score": "1-1"
+    },
+    {
+      "id": "B-2",
+      "group": "B",
+      "matchday": 2,
+      "match": "Canada vs Qatar",
+      "score": "6-0"
+    },
+    {
+      "id": "B-3",
+      "group": "B",
+      "matchday": 2,
+      "match": "Switzerland vs Bosnia & Herzegovina",
+      "score": "4-1"
+    },
+    {
+      "id": "B-4",
+      "group": "B",
+      "matchday": 3,
+      "match": "Switzerland vs Canada",
+      "score": null
+    },
+    {
+      "id": "B-5",
+      "group": "B",
+      "matchday": 3,
+      "match": "Bosnia & Herzegovina vs Qatar",
+      "score": null
+    },
+    {
+      "id": "C-0",
+      "group": "C",
+      "matchday": 1,
+      "match": "Brazil vs Morocco",
+      "score": "1-1"
+    },
+    {
+      "id": "C-1",
+      "group": "C",
+      "matchday": 1,
+      "match": "Scotland vs Haiti",
+      "score": "1-0"
+    },
+    {
+      "id": "C-2",
+      "group": "C",
+      "matchday": 3,
+      "match": "Brazil vs Scotland",
+      "score": null
+    },
+    {
+      "id": "C-3",
+      "group": "C",
+      "matchday": 3,
+      "match": "Haiti vs Morocco",
+      "score": null
+    },
+    {
+      "id": "C-4",
+      "group": "C",
+      "matchday": 2,
+      "match": "Haiti vs Brazil",
+      "score": "0-3"
+    },
+    {
+      "id": "C-5",
+      "group": "C",
+      "matchday": 2,
+      "match": "Morocco vs Scotland",
+      "score": "1-0"
+    },
+    {
+      "id": "D-0",
+      "group": "D",
+      "matchday": 1,
+      "match": "United States vs Paraguay",
+      "score": "4-1"
+    },
+    {
+      "id": "D-1",
+      "group": "D",
+      "matchday": 1,
+      "match": "Australia vs Türkiye",
+      "score": "2-0"
+    },
+    {
+      "id": "D-2",
+      "group": "D",
+      "matchday": 2,
+      "match": "United States vs Australia",
+      "score": "2-0"
+    },
+    {
+      "id": "D-3",
+      "group": "D",
+      "matchday": 2,
+      "match": "Türkiye vs Paraguay",
+      "score": "0-1"
+    },
+    {
+      "id": "D-4",
+      "group": "D",
+      "matchday": 3,
+      "match": "Türkiye vs United States",
+      "score": null
+    },
+    {
+      "id": "D-5",
+      "group": "D",
+      "matchday": 3,
+      "match": "Paraguay vs Australia",
+      "score": null
+    },
+    {
+      "id": "E-0",
+      "group": "E",
+      "matchday": 1,
+      "match": "Curaçao vs Germany",
+      "score": "1-7"
+    },
+    {
+      "id": "E-1",
+      "group": "E",
+      "matchday": 1,
+      "match": "Ecuador vs Côte d'Ivoire",
+      "score": "0-1"
+    },
+    {
+      "id": "E-2",
+      "group": "E",
+      "matchday": 2,
+      "match": "Curaçao vs Ecuador",
+      "score": "0-0"
+    },
+    {
+      "id": "E-3",
+      "group": "E",
+      "matchday": 2,
+      "match": "Côte d'Ivoire vs Germany",
+      "score": "1-2"
+    },
+    {
+      "id": "E-4",
+      "group": "E",
+      "matchday": 3,
+      "match": "Côte d'Ivoire vs Curaçao",
+      "score": null
+    },
+    {
+      "id": "E-5",
+      "group": "E",
+      "matchday": 3,
+      "match": "Germany vs Ecuador",
+      "score": null
+    },
+    {
+      "id": "F-0",
+      "group": "F",
+      "matchday": 1,
+      "match": "Netherlands vs Japan",
+      "score": "2-2"
+    },
+    {
+      "id": "F-1",
+      "group": "F",
+      "matchday": 1,
+      "match": "Sweden vs Tunisia",
+      "score": "5-1"
+    },
+    {
+      "id": "F-2",
+      "group": "F",
+      "matchday": 2,
+      "match": "Netherlands vs Sweden",
+      "score": "5-1"
+    },
+    {
+      "id": "F-3",
+      "group": "F",
+      "matchday": 2,
+      "match": "Tunisia vs Japan",
+      "score": "0-4"
+    },
+    {
+      "id": "F-4",
+      "group": "F",
+      "matchday": 3,
+      "match": "Tunisia vs Netherlands",
+      "score": null
+    },
+    {
+      "id": "F-5",
+      "group": "F",
+      "matchday": 3,
+      "match": "Japan vs Sweden",
+      "score": null
+    },
+    {
+      "id": "G-0",
+      "group": "G",
+      "matchday": 1,
+      "match": "Belgium vs Egypt",
+      "score": "1-1"
+    },
+    {
+      "id": "G-1",
+      "group": "G",
+      "matchday": 1,
+      "match": "Iran vs New Zealand",
+      "score": "2-2"
+    },
+    {
+      "id": "G-2",
+      "group": "G",
+      "matchday": 2,
+      "match": "Belgium vs Iran",
+      "score": "0-0"
+    },
+    {
+      "id": "G-3",
+      "group": "G",
+      "matchday": 2,
+      "match": "New Zealand vs Egypt",
+      "score": "1-3"
+    },
+    {
+      "id": "G-4",
+      "group": "G",
+      "matchday": 3,
+      "match": "New Zealand vs Belgium",
+      "score": null
+    },
+    {
+      "id": "G-5",
+      "group": "G",
+      "matchday": 3,
+      "match": "Egypt vs Iran",
+      "score": null
+    },
+    {
+      "id": "H-0",
+      "group": "H",
+      "matchday": 1,
+      "match": "Cabo Verde vs Spain",
+      "score": "0-0"
+    },
+    {
+      "id": "H-1",
+      "group": "H",
+      "matchday": 1,
+      "match": "Uruguay vs Saudi Arabia",
+      "score": "1-1"
+    },
+    {
+      "id": "H-2",
+      "group": "H",
+      "matchday": 2,
+      "match": "Cabo Verde vs Uruguay",
+      "score": "2-2"
+    },
+    {
+      "id": "H-3",
+      "group": "H",
+      "matchday": 2,
+      "match": "Saudi Arabia vs Spain",
+      "score": "0-4"
+    },
+    {
+      "id": "H-4",
+      "group": "H",
+      "matchday": 3,
+      "match": "Saudi Arabia vs Cabo Verde",
+      "score": null
+    },
+    {
+      "id": "H-5",
+      "group": "H",
+      "matchday": 3,
+      "match": "Spain vs Uruguay",
+      "score": null
+    },
+    {
+      "id": "I-0",
+      "group": "I",
+      "matchday": 1,
+      "match": "France vs Senegal",
+      "score": "3-1"
+    },
+    {
+      "id": "I-1",
+      "group": "I",
+      "matchday": 1,
+      "match": "Norway vs Iraq",
+      "score": "4-1"
+    },
+    {
+      "id": "I-2",
+      "group": "I",
+      "matchday": 3,
+      "match": "France vs Norway",
+      "score": null
+    },
+    {
+      "id": "I-3",
+      "group": "I",
+      "matchday": 3,
+      "match": "Iraq vs Senegal",
+      "score": null
+    },
+    {
+      "id": "I-4",
+      "group": "I",
+      "matchday": 2,
+      "match": "Iraq vs France",
+      "score": "0-3"
+    },
+    {
+      "id": "I-5",
+      "group": "I",
+      "matchday": 2,
+      "match": "Senegal vs Norway",
+      "score": "2-3"
+    },
+    {
+      "id": "J-0",
+      "group": "J",
+      "matchday": 1,
+      "match": "Argentina vs Algeria",
+      "score": "3-0"
+    },
+    {
+      "id": "J-1",
+      "group": "J",
+      "matchday": 1,
+      "match": "Jordan vs Austria",
+      "score": "1-3"
+    },
+    {
+      "id": "J-2",
+      "group": "J",
+      "matchday": 3,
+      "match": "Argentina vs Jordan",
+      "score": null
+    },
+    {
+      "id": "J-3",
+      "group": "J",
+      "matchday": 3,
+      "match": "Austria vs Algeria",
+      "score": null
+    },
+    {
+      "id": "J-4",
+      "group": "J",
+      "matchday": 2,
+      "match": "Austria vs Argentina",
+      "score": "0-2"
+    },
+    {
+      "id": "J-5",
+      "group": "J",
+      "matchday": 2,
+      "match": "Algeria vs Jordan",
+      "score": "2-1"
+    },
+    {
+      "id": "K-0",
+      "group": "K",
+      "matchday": 1,
+      "match": "DR Congo vs Portugal",
+      "score": "1-1"
+    },
+    {
+      "id": "K-1",
+      "group": "K",
+      "matchday": 1,
+      "match": "Colombia vs Uzbekistan",
+      "score": "3-1"
+    },
+    {
+      "id": "K-2",
+      "group": "K",
+      "matchday": 2,
+      "match": "DR Congo vs Colombia",
+      "score": null
+    },
+    {
+      "id": "K-3",
+      "group": "K",
+      "matchday": 2,
+      "match": "Uzbekistan vs Portugal",
+      "score": "0-5"
+    },
+    {
+      "id": "K-4",
+      "group": "K",
+      "matchday": 3,
+      "match": "Uzbekistan vs DR Congo",
+      "score": null
+    },
+    {
+      "id": "K-5",
+      "group": "K",
+      "matchday": 3,
+      "match": "Portugal vs Colombia",
+      "score": null
+    },
+    {
+      "id": "L-0",
+      "group": "L",
+      "matchday": 1,
+      "match": "England vs Croatia",
+      "score": "4-2"
+    },
+    {
+      "id": "L-1",
+      "group": "L",
+      "matchday": 1,
+      "match": "Ghana vs Panama",
+      "score": "1-0"
+    },
+    {
+      "id": "L-2",
+      "group": "L",
+      "matchday": 2,
+      "match": "England vs Ghana",
+      "score": "0-0"
+    },
+    {
+      "id": "L-3",
+      "group": "L",
+      "matchday": 2,
+      "match": "Panama vs Croatia",
+      "score": "0-1"
+    },
+    {
+      "id": "L-4",
+      "group": "L",
+      "matchday": 3,
+      "match": "Panama vs England",
+      "score": null
+    },
+    {
+      "id": "L-5",
+      "group": "L",
+      "matchday": 3,
+      "match": "Croatia vs Ghana",
+      "score": null
+    }
+  ],
+  "scores": {
+    "A-0": [
+      2,
+      0
+    ],
+    "A-1": [
+      2,
+      1
+    ],
+    "A-2": [
+      1,
+      0
+    ],
+    "A-3": [
+      1,
+      1
+    ],
+    "B-0": [
+      1,
+      1
+    ],
+    "B-1": [
+      1,
+      1
+    ],
+    "B-2": [
+      6,
+      0
+    ],
+    "B-3": [
+      4,
+      1
+    ],
+    "C-0": [
+      1,
+      1
+    ],
+    "C-1": [
+      1,
+      0
+    ],
+    "C-4": [
+      0,
+      3
+    ],
+    "C-5": [
+      1,
+      0
+    ],
+    "D-0": [
+      4,
+      1
+    ],
+    "D-1": [
+      2,
+      0
+    ],
+    "D-2": [
+      2,
+      0
+    ],
+    "D-3": [
+      0,
+      1
+    ],
+    "E-0": [
+      1,
+      7
+    ],
+    "E-1": [
+      0,
+      1
+    ],
+    "E-2": [
+      0,
+      0
+    ],
+    "E-3": [
+      1,
+      2
+    ],
+    "F-0": [
+      2,
+      2
+    ],
+    "F-1": [
+      5,
+      1
+    ],
+    "F-2": [
+      5,
+      1
+    ],
+    "F-3": [
+      0,
+      4
+    ],
+    "G-0": [
+      1,
+      1
+    ],
+    "G-1": [
+      2,
+      2
+    ],
+    "G-2": [
+      0,
+      0
+    ],
+    "G-3": [
+      1,
+      3
+    ],
+    "H-0": [
+      0,
+      0
+    ],
+    "H-1": [
+      1,
+      1
+    ],
+    "H-2": [
+      2,
+      2
+    ],
+    "H-3": [
+      0,
+      4
+    ],
+    "I-0": [
+      3,
+      1
+    ],
+    "I-1": [
+      4,
+      1
+    ],
+    "I-4": [
+      0,
+      3
+    ],
+    "I-5": [
+      2,
+      3
+    ],
+    "J-0": [
+      3,
+      0
+    ],
+    "J-1": [
+      1,
+      3
+    ],
+    "J-4": [
+      0,
+      2
+    ],
+    "J-5": [
+      2,
+      1
+    ],
+    "K-0": [
+      1,
+      1
+    ],
+    "K-1": [
+      3,
+      1
+    ],
+    "K-3": [
+      0,
+      5
+    ],
+    "L-0": [
+      4,
+      2
+    ],
+    "L-1": [
+      1,
+      0
+    ],
+    "L-2": [
+      0,
+      0
+    ],
+    "L-3": [
+      0,
+      1
+    ]
+  }
+}
